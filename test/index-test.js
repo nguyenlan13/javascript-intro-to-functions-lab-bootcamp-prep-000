@@ -24,7 +24,7 @@ function logShout(string){
   
 }
 
-
+logShout('hello')
 
 describe('logShout(string)', function() {
   it('calls console.log() its one argument in all caps', function() {
