@@ -20,11 +20,11 @@ describe('whisper(string)', function() {
 })
 
 function logShout(string){
- Return console.log (string.toUpperCase())
+  Return console.log (string.toUpperCase())
   
 }
 
-logShout('hello')
+
 
 describe('logShout(string)', function() {
   it('calls console.log() its one argument in all caps', function() {
